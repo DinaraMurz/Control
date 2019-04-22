@@ -1,0 +1,7 @@
+c:\users\мырзабекди\source\repos\ReflectionPracticalWork\ReflectionPracticalWork\bin\Debug\ReflectionPracticalWork.exe.config
+c:\users\мырзабекди\source\repos\ReflectionPracticalWork\ReflectionPracticalWork\bin\Debug\ReflectionPracticalWork.exe
+c:\users\мырзабекди\source\repos\ReflectionPracticalWork\ReflectionPracticalWork\bin\Debug\ReflectionPracticalWork.pdb
+c:\users\мырзабекди\source\repos\ReflectionPracticalWork\ReflectionPracticalWork\obj\Debug\ReflectionPracticalWork.csprojAssemblyReference.cache
+c:\users\мырзабекди\source\repos\ReflectionPracticalWork\ReflectionPracticalWork\obj\Debug\ReflectionPracticalWork.csproj.CoreCompileInputs.cache
+c:\users\мырзабекди\source\repos\ReflectionPracticalWork\ReflectionPracticalWork\obj\Debug\ReflectionPracticalWork.exe
+c:\users\мырзабекди\source\repos\ReflectionPracticalWork\ReflectionPracticalWork\obj\Debug\ReflectionPracticalWork.pdb
